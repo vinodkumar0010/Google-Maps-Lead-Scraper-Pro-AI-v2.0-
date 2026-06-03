@@ -51,22 +51,26 @@ The most powerful AI-powered Google Maps lead generation platform for agencies, 
 
 ### Dashboard
 Real-time metrics, charts, hot leads preview
+<img width="1366" height="1405" alt="Dashbord" src="https://github.com/user-attachments/assets/5f745b6e-c4b1-45a7-b8f5-f27e110c38b0" />
 
 ### Scraper Engine
 Google Maps scraping with live progress and enrichment
+<img width="1366" height="1069" alt="05ff038e-8714-4b6b-b84f-0ac0f79bbefd" src="https://github.com/user-attachments/assets/b8fe87cd-27b9-4f7b-b942-13dc39fab3ae" />
 
 ### Lead Manager
 Filter, search, delete, export, generate emails, audit reports
+<img width="1366" height="2333" alt="2258bfe7-b0b1-4515-ba18-eaba3c697043" src="https://github.com/user-attachments/assets/1018a178-8483-4c2d-92b2-7fb6e7662236" />
 
 ### AI Analysis
 Website scoring, opportunity detection, competitor discovery
+<img width="1366" height="984" alt="ede6757b-a3f3-4572-b318-737cd918a4f4" src="https://github.com/user-attachments/assets/e095421b-5ee7-4e0f-b9f4-fc6af64e232d" />
+
 
 ## 📞 Contact
 
 | Channel | Details |
 |---|---|
 | **Email** | support@masteredgetech.in |
-| **WhatsApp** | +91 7391015661 |
 | **Website** | [masteredgetech.in](https://masteredgetech.in) |
 
 ## ⚖️ License
