@@ -1,0 +1,44 @@
+# ══════════════════════════════════════════════
+# PRIVATE FILES — Never push to GitHub
+# ══════════════════════════════════════════════
+
+# Owner login credentials
+src/lib/ownerAccount.ts
+
+# Stripe payment keys
+src/lib/stripeConfig.ts
+
+# Owner settings keys
+src/lib/ownerKeys.ts
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Build output
+dist/
+dist-ssr/
+
+# Dependencies
+node_modules/
+
+# Guides with internal info
+public/Admin-Troubleshooting-Guide.html
+public/Google-Maps-Lead-Scraper-Pro-AI-Production-Guide.html
+HOSTINGER-SETUP-GUIDE.md
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
