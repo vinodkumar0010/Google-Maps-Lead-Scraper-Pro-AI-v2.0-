@@ -49,7 +49,7 @@ Now open `.env` in any text editor (Notepad, VS Code) and fill in YOUR real valu
 ```env
 # SUPABASE — get from https://supabase.com → Settings → API
 VITE_SUPABASE_URL=https://abcdefgh.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.xxxxx
+VITE_SUPABASE_ANON_KEY=
 
 # PAYUMONEY — get from PayUMoney Dashboard → My Account
 VITE_PAYU_MERCHANT_KEY=your_merchant_key_here
